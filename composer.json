@@ -1,5 +1,5 @@
 {
-    "name": "warlof/seat-discord-connector",
+    "name": "svenbrnn/seat-discord-connector",
     "description": "A SeAT plugin which maintain user access on a Discord Guild based on defined pattern.",
     "type": "seat-plugin",
     "minimum-stability": "dev",
