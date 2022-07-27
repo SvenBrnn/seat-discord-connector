@@ -1,4 +1,6 @@
 # Seat Discord Connector
+Non-Maintained Fork, use the original!
+
 A [SeAT](https://github.com/eveseat/seat) plugin which maintain user access on a Discord Guild based on defined pattern.
 
 [![Latest Unstable Version](https://poser.pugx.org/warlof/seat-discord-connector/v/unstable)](https://packagist.org/packages/warlof/seat-discord-connector)
