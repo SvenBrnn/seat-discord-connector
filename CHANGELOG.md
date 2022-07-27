@@ -1,4 +1,6 @@
 # Changelog
+## 5.1.0.1
+- Added DiscordRoleFilter feature and settings
 
 ## 5.1.0
 - Remove email scope requirement, use username+discriminator instead by @xcrf in #63
